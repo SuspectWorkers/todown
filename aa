@@ -1,0 +1,8 @@
+[drive]
+type = drive
+client_id = 541258464877-8tm53p4bg9jmrd2189n7ece0neurfqap.apps.googleusercontent.com
+client_secret = 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
+scope = drive
+token = {"access_token":"ya29.a0Aa4xrXMZYqq1knQFbivfgqNLRUq93KDAWlyyGEl-tZ9Fx7a4bgaap1Idp86L65EDigJuyBJqMwQ1X55fxHDjcCiKavwBKqm3TokxBISE2k5KvuN66-iqyy9G86HeE_7Mp7FwqmaMY3c7jWHZNzGZ2G_tVNZpaCgYKATASARISFQEjDvL9whmK8CURvZ3E9VlxkKbw-w0163","token_type":"Bearer","refresh_token":"1//0cNmVJ3Lu8KNNCgYIARAAGAwSNwF-L9Ir-aGgNxN91GOpg9FetN2NnZ61ixL1U-MzjsOa4Pyr5egEwSBlWC_vmu4nwuzqWqKYq3E","expiry":"2022-09-19T22:39:51.5102516+03:00"}
+team_drive = 0AFRM_xIUzg6jUk9PVA
+root_folder_id = 
