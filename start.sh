@@ -13,7 +13,10 @@ if [ -f "qBittorrent/config/qBittorrent.conf" ]
 then
     echo "qbee conf file exists."
 else
-    echo '[LegalNotice]
+    echo '[AutoRun]
+    enabled=true
+    program="/content/rclone --config=\"/content/rclone1/rclone.conf\" move \"%F\" \"drive:/nata/%N\""
+    [LegalNotice]
     Accepted=true
     [Preferences]
     WebUI\AuthSubnetWhitelistEnabled=false
