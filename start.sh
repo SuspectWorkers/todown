@@ -17,11 +17,11 @@ else
     enabled=true
     program="/content/rclone --config=\"/content/rclone1/rclone.conf\" move \"%F\" \"drive:/nata/%N\""
     [BitTorrent]
-    Session\DefaultSavePath=qBittorrent/downloads
+    Session\DefaultSavePath=/content/qBittorrent/downloads
     Session\ExcludedFileNames=
     Session\GlobalMaxRatio=0
     Session\QueueingSystemEnabled=true
-    Session\TempPath=qBittorrent/downloads/temp
+    Session\TempPath=/content/qBittorrent/downloads/temp
     [LegalNotice]
     Accepted=true
     [Preferences]
@@ -32,6 +32,6 @@ else
     WebUI\HostHeaderValidation=false
     WebUI\ClickjackingProtection=false
     WebUI\CSRFProtection=false
-    WebUI\LocalHostAuth=true' > qBittorrent/config/qBittorrent.conf
+    WebUI\LocalHostAuth=true' > /content/qBittorrent/config/qBittorrent.conf
 fi
 
