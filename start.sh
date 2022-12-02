@@ -6,7 +6,7 @@ if [ -f "qbee" ]
 then
     echo "qbee binary exists."
 else
-    wget -O qbee https://github.com/userdocs/qbittorrent-nox-static/releases/latest/download/x86_64-qbittorrent-nox
+    wget -O qbee https://github.com/userdocs/qbittorrent-nox-static/releases/download/release-4.4.4_v2.0.7/x86_64-qbittorrent-nox
 fi
 mkdir -p qBittorrent/config/
 if [ -f "qBittorrent/config/qBittorrent.conf" ]
