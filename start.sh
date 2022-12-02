@@ -16,6 +16,12 @@ else
     echo '[AutoRun]
     enabled=true
     program="/content/rclone --config=\"/content/rclone1/rclone.conf\" move \"%F\" \"drive:/nata/%N\""
+    [BitTorrent]
+    Session\DefaultSavePath=qBittorrent/downloads
+    Session\ExcludedFileNames=
+    Session\GlobalMaxRatio=0
+    Session\QueueingSystemEnabled=true
+    Session\TempPath=qBittorrent/downloads/temp
     [LegalNotice]
     Accepted=true
     [Preferences]
