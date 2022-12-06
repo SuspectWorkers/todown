@@ -1,0 +1,8 @@
+authtoken: 2IWqUZhy5MvR2El2tROu62iLDkR_T8js4gZFa4U3Ga3sXTd5
+region: eu
+version: 2
+
+tunnels:
+    qbee:
+        proto: http
+        addr: 10156
