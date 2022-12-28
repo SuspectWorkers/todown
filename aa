@@ -1,8 +1,8 @@
 [drive]
 type = drive
-client_id = 541258464877-8tm53p4bg9jmrd2189n7ece0neurfqap.apps.googleusercontent.com
-client_secret = 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
+client_id = 541258464877-g4rkdrak8cn91h6t2uo45sb00fu07po8.apps.googleusercontent.com
+client_secret = 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
 scope = drive
-token = {"access_token":"ya29.a0Aa4xrXMZYqq1knQFbivfgqNLRUq93KDAWlyyGEl-tZ9Fx7a4bgaap1Idp86L65EDigJuyBJqMwQ1X55fxHDjcCiKavwBKqm3TokxBISE2k5KvuN66-iqyy9G86HeE_7Mp7FwqmaMY3c7jWHZNzGZ2G_tVNZpaCgYKATASARISFQEjDvL9whmK8CURvZ3E9VlxkKbw-w0163","token_type":"Bearer","refresh_token":"1//0cNmVJ3Lu8KNNCgYIARAAGAwSNwF-L9Ir-aGgNxN91GOpg9FetN2NnZ61ixL1U-MzjsOa4Pyr5egEwSBlWC_vmu4nwuzqWqKYq3E","expiry":"2022-09-19T22:39:51.5102516+03:00"}
+token = {"access_token":"ya29.a0AX9GBdUIvpWfUSlyhSEDL13jLfq3kuov1T5FrAI1FXvHFP-0rFU1FBSddT41M-lpGocTa_XzkheeskazG9_J6suK0O0xEdk2MoLmzOl4WyZRfmhnPW653Of8NxkpclAloDgtTVojcYhVyvvGWyEG2FTZeqGiaCgYKATASARISFQHUCsbCcipEhSCw6STcpwcAVGvYWA0163","token_type":"Bearer","refresh_token":"1//0cT0ILHxj5MepCgYIARAAGAwSNwF-L9IrVK2zmuM4BsCgQfKbc5XFPfeWhmKD7ZcJBJ5NFXjk3KVEKhL2u_ab94SCw6vJurwMV38","expiry":"2022-12-28T21:14:30.8332617+02:00"}
 team_drive = 0AFRM_xIUzg6jUk9PVA
 root_folder_id = 
