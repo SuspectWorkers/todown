@@ -1,0 +1,26 @@
+services:
+- name: service-0
+  addr: ":7889"
+  handler:
+    type: socks5
+    chain: chain-0
+  listener:
+    type: tcp
+chains:
+- name: chain-0
+  hops:
+  - name: hop-0
+    nodes:
+    - name: node-0
+      addr: 178.176.128.128:80
+      connector:
+        type: relay
+      dialer:
+        type: pht
+        metadata:
+          authorizePath: /authorize
+          pushPath: /push
+          pullPath: /pull
+          host: vkcdn.bfgdrm.buzz
+          header:
+            User-Agent: "gost/3.0"
